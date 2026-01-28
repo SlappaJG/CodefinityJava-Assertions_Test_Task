@@ -5,29 +5,159 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f09e4c-8cb4-4b5e-9043-69e3449c4af2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codefinity/ExceptionHandlingExerciseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codefinity/ExceptionHandlingExerciseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/jgeor/IdeaProjects/CodefinityJava-Assertions_Test_Task" value="2azVz2ra0E2LCvpy7mQtOuACium" />
+    </persistenceIdMap>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SlappaJG"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SlappaJG/CodefinityJava-Assertions_Test_Task.git",
+    "accountId": "08c5eed0-9827-4ee3-aa38-cadb73902e5f"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2azVz2ra0E2LCvpy7mQtOuACium" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.ExceptionHandlingExerciseTest.checkAge_ShouldNotThrowException_WhenAgeIs18OrMore.executor": "Run",
+    "JUnit.ExceptionHandlingExerciseTest.checkAge_ShouldThrowIllegalArgumentException_WhenAgeIsLessThan18.executor": "Run",
+    "JUnit.ExceptionHandlingExerciseTest.printLength_ShouldNotThrowException_WhenStringIsNotNull.executor": "Run",
+    "JUnit.ExceptionHandlingExerciseTest.printLength_ShouldThrowNullPointerException_WhenStringIsNull.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.ExceptionHandlingExerciseTest">
+    <configuration name="ExceptionHandlingExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assertions_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codefinity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codefinity" />
+      <option name="MAIN_CLASS_NAME" value="codefinity.ExceptionHandlingExerciseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingExerciseTest.checkAge_ShouldNotThrowException_WhenAgeIs18OrMore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assertions_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codefinity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codefinity" />
+      <option name="MAIN_CLASS_NAME" value="codefinity.ExceptionHandlingExerciseTest" />
+      <option name="METHOD_NAME" value="checkAge_ShouldNotThrowException_WhenAgeIs18OrMore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingExerciseTest.checkAge_ShouldThrowIllegalArgumentException_WhenAgeIsLessThan18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assertions_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codefinity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codefinity" />
+      <option name="MAIN_CLASS_NAME" value="codefinity.ExceptionHandlingExerciseTest" />
+      <option name="METHOD_NAME" value="checkAge_ShouldThrowIllegalArgumentException_WhenAgeIsLessThan18" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingExerciseTest.printLength_ShouldNotThrowException_WhenStringIsNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assertions_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codefinity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codefinity" />
+      <option name="MAIN_CLASS_NAME" value="codefinity.ExceptionHandlingExerciseTest" />
+      <option name="METHOD_NAME" value="printLength_ShouldNotThrowException_WhenStringIsNotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingExerciseTest.printLength_ShouldThrowNullPointerException_WhenStringIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assertions_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codefinity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codefinity" />
+      <option name="MAIN_CLASS_NAME" value="codefinity.ExceptionHandlingExerciseTest" />
+      <option name="METHOD_NAME" value="printLength_ShouldThrowNullPointerException_WhenStringIsNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExceptionHandlingExerciseTest" />
+        <item itemvalue="JUnit.ExceptionHandlingExerciseTest.printLength_ShouldNotThrowException_WhenStringIsNotNull" />
+        <item itemvalue="JUnit.ExceptionHandlingExerciseTest.checkAge_ShouldThrowIllegalArgumentException_WhenAgeIsLessThan18" />
+        <item itemvalue="JUnit.ExceptionHandlingExerciseTest.printLength_ShouldThrowNullPointerException_WhenStringIsNull" />
+        <item itemvalue="JUnit.ExceptionHandlingExerciseTest.checkAge_ShouldNotThrowException_WhenAgeIs18OrMore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +169,24 @@
       <workItem from="1705321657493" duration="1000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
